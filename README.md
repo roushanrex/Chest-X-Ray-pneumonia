@@ -1,4 +1,4 @@
-# Computer Aided Diagnosis of Pneumonia based on Transfer Learning of VGG16
+# Ai Doctor Chest-X-Ray-pneumonia
 
 > Based on Transfer Learning of VGG16 architecture. The work uses Kaggle Pneumonia dataset https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia/home for training and validation. It uses Flask webapp by mtobeiyf to deploy the Keras Model https://github.com/mtobeiyf/keras-flask-deploy-webapp.
 
