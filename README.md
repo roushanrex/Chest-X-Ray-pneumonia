@@ -1,7 +1,7 @@
 # Ai Doctor Chest-X-Ray-pneumonia
 
 
-## Getting started in 10 minutes
+## Getting started Ai Doctor
 
 - Clone this repo 
 - Install requirements
